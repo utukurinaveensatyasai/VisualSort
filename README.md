@@ -28,6 +28,7 @@ Sorting Algorithm Visualizer is a web-based project that visually demonstrates h
    ```
 2. Open `index.html` in your browser.
 
+live Demo : [Click here](https://utukurinaveensatyasai.github.io/VisualSort/)
 ## 🎯 Future Enhancements
 - Add more sorting algorithms (Shell Sort, Counting Sort, etc.).
 - Improve animations with smooth transitions.
